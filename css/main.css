@@ -1,0 +1,28 @@
+.banner {
+	background-image: url(../img/01.jpg);
+	height: 100px;
+}
+
+.about {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 30px;
+}
+
+.btn {
+   width: 150px;
+   align-self: center;
+}
+
+.post {
+	margin: 150px 0;
+}
+
+.port-nav {
+	margin: 30px 0;
+}
+
+.contact-link {
+	padding: 15px;
+}
